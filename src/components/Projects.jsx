@@ -23,7 +23,7 @@ const Projects = () => {
     },
     {
       title: 'Plastic Pyrolysis Plant',
-      description: 'Designed and implemented an automated control system for a plastic pyrolysis plant. The system optimizes the conversion process of plastic waste into fuel oil, increasing efficiency by 35%.',
+      description: 'The Plastic Pyrolysis Plant project focused on converting non-biodegradable plastic waste into low-sulfur fuel through thermocatalytic depolymerization. Using high-temperature reactors and zeolite-based catalysts, the system breaks down long-chain polymers in plastics into shorter hydrocarbon chains, producing usable liquid fuel. This fuel serves as an alternative energy source with reduced environmental impact. The process is designed for high efficiency and minimal emissions, addressing the global issue of plastic pollution while contributing to sustainable energy recovery and circular economy practices.',
       tech: ['Python', 'Arduino', 'C++', 'Machine Learning', 'IoT'],
       links: {
         github: 'https://github.com/rahulbilki/pyrolysis-plant',
