@@ -24,7 +24,7 @@ const Projects = () => {
     {
       title: 'Plastic Pyrolysis Plant',
       description: 'The Plastic Pyrolysis Plant project focused on converting non-biodegradable plastic waste into low-sulfur fuel through thermocatalytic depolymerization. Using high-temperature reactors and zeolite-based catalysts, the system breaks down long-chain polymers in plastics into shorter hydrocarbon chains, producing usable liquid fuel. This fuel serves as an alternative energy source with reduced environmental impact. The process is designed for high efficiency and minimal emissions, addressing the global issue of plastic pollution while contributing to sustainable energy recovery and circular economy practices.',
-      
+      tech: ['Python', 'OpenCV', 'dlib', 'NumPy', 'TensorFlow'],
       links: {
         github: 'https://github.com/rahulbilki/pyrolysis-plant',
         external: 'https://pyrolysis-plant-demo.vercel.app'
