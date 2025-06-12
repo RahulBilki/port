@@ -14,7 +14,7 @@ const Projects = () => {
     },
     {
       title: 'Driver Fatigue Detection System',
-      description: 'Built a real-time fatigue detection system using facial landmarks and eye aspect ratio analysis. The system monitors driver alertness and provides timely warnings, potentially reducing accident rates by 45%.',
+      description: 'Developed a real-time Driver Fatigue Detection System using Python, OpenCV, CNN, and Haarcascade classifiers to monitor eye movements and detect drowsiness with 95% accuracy. The system uses a live video feed to analyze facial cues and triggers instant alerts when signs of fatigue are detected. Integrated Google Maps API to provide voice-based navigation to the nearest rest areas, enhancing driver safety. The solution is optimized for various lighting conditions and ensures consistent performance, helping prevent road accidents by offering timely and intelligent fatigue warnings.',
       tech: ['Python', 'OpenCV', 'dlib', 'NumPy', 'TensorFlow'],
       links: {
         github: 'https://github.com/rahulbilki/fatigue-detection',
