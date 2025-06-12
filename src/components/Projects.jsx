@@ -5,7 +5,7 @@ const Projects = () => {
   const projects = [
     {
       title: 'AI-Enhanced Smart Basket',
-      description: 'Developed an intelligent shopping system using computer vision and deep learning. The system automatically identifies products placed in the basket and generates bills, streamlining the checkout process and reducing waiting times by 60%.',
+      description: 'Developed an AI-enhanced smart basket system using Python, RFID, NFC, computer vision, and deep learning to automate product detection and billing in retail environments. The system identifies items placed in the basket using RFID tags and supplements it with object recognition via deep learning models for added accuracy. Integrated collaborative filtering to provide real-time, personalized product recommendations based on customer preferences and shopping history. NFC was used for seamless user identification and retrieval of past data. This solution streamlined the checkout process, reduced waiting times by over 60%, and significantly improved the overall shopping experience.',
       tech: ['Python', 'TensorFlow', 'OpenCV', 'PyTorch', 'Flask'],
       links: {
         github: 'https://github.com/rahulbilki/smart-basket',
