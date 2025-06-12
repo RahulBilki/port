@@ -26,7 +26,7 @@ const Layout = ({ children }) => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              RC
+              RB
             </motion.a>
 
             {/* Desktop Navigation */}
